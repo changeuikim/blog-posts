@@ -15,6 +15,8 @@ createdAt : "2025-02-01 23:28"
 
 ![web-page](../../../assets/images/2025/02/07th/web-page.jpg)
 
+<img src="../../../assets/images/2025/02/07th/web-page.jpg" width=50% height=50% alt="web-page">
+
 웹 개발은 기본적으로 웹 페이지에 무언가를 표시하는 일, 즉 렌더링 (Rendering)을 다루는 일이다. 이 과정에서 프론트엔드 개발자는 웹 페이지가 어떻게 화면을 구성할지 결정하고, 백엔드 개발자는 어떤 데이터를 가져와서 표시할지를 결정한다.
 
 웹 페이지를 구성하는 핵심 요소는 3가지가 있다.
